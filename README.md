@@ -10,4 +10,4 @@
 ![code2](https://user-images.githubusercontent.com/33940202/79294925-c9e6a780-7ead-11ea-88c3-7f5a521c968c.png)
 
 # Autor :man_technologist::
-Feito com :heart: by **franciscojunior10** meu :point_right: [Linkedin](linkedin.com/in/franciscojunior10)
+Feito com :heart: by **franciscojunior10** meu :point_right: [Linkedin](https://www.linkedin.com/in/franciscojunior10/)
